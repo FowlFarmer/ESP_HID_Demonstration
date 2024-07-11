@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "tusb.h": "c",
+        "hid_device.h": "c"
+    }
+}
